@@ -1,5 +1,6 @@
 # Ignore system/user folders
 
+.terraform/
 AppData/
 Contacts/
 Downloads/
