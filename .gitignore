@@ -1,0 +1,22 @@
+# Ignore system/user folders
+
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+VirtualBox VMs/
+
+# Node, Python, etc. (optional)
+node_modules/
+__pycache__/
+.env
+*.log
+
+
