@@ -2,3 +2,5 @@
 !.gitignore
 !/app/
 !/app/**
+terraform/
+.terraform/
